@@ -105,3 +105,5 @@ Portfolio Project – Excel Data Analytics & Business Reporting
 
 **Umesh Zampadiya**  
 Aspiring Data Analyst | Excel & Operations Reporting Specialist
+
+Linkdin: https://www.linkedin.com/in/umeshzampadiya/
