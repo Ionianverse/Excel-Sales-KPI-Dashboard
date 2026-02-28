@@ -1,10 +1,9 @@
 # 📈 Excel Sales KPI Dashboard
 
-![Excel](https://img.shields.io/badge/Tool-Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Dashboard](https://img.shields.io/badge/Type-Interactive_Dashboard-1f77b4?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Focus-Business_Analytics-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Built with Excel](https://img.shields.io/badge/Built%20With-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![KPI Dashboard](https://img.shields.io/badge/KPI-Dashboard-0A66C2?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Domain-Business%20Intelligence-FF6F00?style=flat-square)
+![Project Status](https://img.shields.io/badge/Status-Production%20Ready-2ea44f?style=flat-square)
 
 ---
 
