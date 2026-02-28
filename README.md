@@ -1,4 +1,4 @@
-# 📊 Excel Sales KPI Dashboard
+# 📈 Excel Sales KPI Dashboard
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/Type-Interactive%20Dashboard-blue?style=for-the-badge)
@@ -60,6 +60,14 @@ The dashboard was designed to help stakeholders:
 
 ---
 
+## 📥 Download
+
+You can download and explore the interactive Excel dashboard here:
+
+➡️ [Excel_Sales_Performance_Dashboard.xlsx](Excel_Sales_Performance_Dashboard.xlsx)
+
+---
+
 ## 📊 Dashboard Features
 
 ✔ Interactive filtering (Region & Quarter)  
@@ -76,6 +84,16 @@ The dashboard was designed to help stakeholders:
 
 - **Raw_Data** → Original dataset used for analysis  
 - **Dashboard** → Final interactive reporting dashboard  
+
+---
+
+## ▶ How to Use this Dashboard
+
+1. Download and open the Excel file in Microsoft Excel (Desktop version recommended).
+2. Use the **Region slicer** to filter sales by region.
+3. Use the **Date timeline** to filter quarterly performance.
+4. Observe how KPI cards and charts dynamically update.
+5. Review Revenue Stability section for volatility analysis.
 
 ---
 
